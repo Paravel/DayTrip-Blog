@@ -1,0 +1,50 @@
+.container {
+  width: 95%;
+  max-width: 50em;
+  margin: 0 auto;
+}
+
+.site-header {
+  background-image: linear-gradient(to bottom, #76aaa2, #4a8d95);
+  padding: 2em 0;
+  overflow: hidden;
+  margin-bottom: 4em;
+  .logo{
+    display: block;
+    margin: 0 auto 1em;
+  }
+  .site-nav{
+    display: block;
+    text-align: center;
+    font-size: 0.875em;
+  }
+
+  @media (min-width: 600px) {
+    padding: 3.5em 0;
+    .logo{
+      margin: 0;
+    }
+    .button{
+      position: absolute;
+      right: 2em;
+      top: 3em;
+    }
+  }
+}
+
+.post{
+  margin: 5em 0;
+}
+
+.post-meta{
+  font-size: 0.875em;
+  color: #8e8e8e;
+  a{
+    text-transform: capitalize;
+  }
+}
+
+.post-header{
+  margin-bottom: 1em;
+  overflow: hidden;
+}

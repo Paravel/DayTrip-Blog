@@ -1,0 +1,120 @@
+/* Reset
+-------------------------------------------------------------- */
+* {
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+}
+html, body, div, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, ol, ul, li, form, legend, label, table, header, footer, nav, section, figure {
+	margin: 0;
+	padding: 0;
+}
+header, footer, nav, section, article, hgroup, figure {
+	display: block;
+}
+
+
+
+/* Fonts
+-------------------------------------------------------------- */
+@import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300);
+@import url(https://fonts.googleapis.com/css?family=Source+Code+Pro:400);
+@import url(https://fonts.googleapis.com/css?family=Lora);
+
+
+
+
+/* Base Type & Styles
+-------------------------------------------------------------- */
+body {
+  font-family: 'Source Sans Pro', sans-serif;
+  font-weight: normal;
+  color: #555;
+  font-size: 16px;
+  line-height: 1.4;
+  @media (min-width: 400px) {
+    font-size: 106.3%;
+  }
+
+  @media (min-width: 600px) {
+    font-size: 112.5%;
+    line-height: 1.6;
+  }
+
+  @media (min-width: 900px) {
+    font-size: 118.8%;
+  }
+
+  @media (min-width: 1100px) {
+    font-size: 125%;
+  }
+}
+
+h1 {
+  color: #3e8792;
+  font-weight: 300;
+  font-size: 2.25em;
+  line-height: 1.2em;
+  margin-bottom: 0.4em;
+  @media (min-width: 900px) {
+    font-size: 2.75em;
+    line-height: 1.3em;
+  }
+	a{
+		font-weight: 300;
+	}
+	a:hover{
+		text-decoration: none;
+	}
+}
+
+p {
+  // font-family: 'Lora', serif;
+  max-width: 38em;
+  margin: 0 0 2em;
+}
+
+img{
+  max-width: 100%;
+  margin-bottom: 2em;
+}
+
+code, pre{
+  font-family: 'Source Code Pro', monospace;
+  font-size: 0.875em;
+  background: #f4f4f4;
+  padding: 0 0.25em;
+}
+
+a {
+  color: #3E8792;
+  text-decoration: none;
+  font-weight: normal;
+  // transition: all 0.1s linear;
+  &:hover{
+    text-decoration: underline;
+  }
+}
+
+.button {
+    border: 1px solid #fff;
+    color: #fff;
+    padding: 0.75em 1em;
+    font-weight: normal !important;
+    cursor: pointer;
+    font-size: 1em;
+    text-align: center;
+    line-height: 1;
+    min-width: 5em;
+    text-decoration: none;
+    border-radius: 3px;
+    display: inline-block;
+		transition: background-color 0.1s linear;
+
+		&:hover{
+			text-decoration: none;
+			background-color: #fff;
+			border-color: #3e8792;
+			color: #3e8792;
+		}
+}
