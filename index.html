@@ -9,7 +9,7 @@ layout: default
           <div class="post">
             <header class="post-header">
               <h1 class="post-title"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h1>
-              <p class="post-meta">Written by <a href="">{{ post.author }}</a> in <a href="">{{ post.categories }}</a> on {{ post.date | date: "%b %-d, %Y" }}</p>
+              <p class="post-meta">Written by <a href="https://godaytrip.com/u/{{ post.author.username }}">{{ post.author.name }}</a> in  {{ post.categories | join: ', ' | capitalize }} on {{ post.date | date: "%b %-d, %Y" }}</p>
               <!-- Not sure how to use jekyll variables & how to configure author / categories links -->
             </header>
 

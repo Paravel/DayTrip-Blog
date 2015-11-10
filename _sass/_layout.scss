@@ -8,7 +8,7 @@
   background-image: linear-gradient(to bottom, #76aaa2, #4a8d95);
   padding: 2em 0;
   overflow: hidden;
-  margin-bottom: 4em;
+  margin-bottom: 10%;
   .logo{
     display: block;
     margin: 0 auto 1em;
@@ -32,8 +32,12 @@
   }
 }
 
+.post-list {
+  list-style-type: none;
+}
+
 .post{
-  margin: 5em 0;
+  margin: 10% 0;
 }
 
 .post-meta{
