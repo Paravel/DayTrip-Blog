@@ -12,6 +12,8 @@ categories:
 
 Howdy, friends. We're happy to announce that we've lifted the beta and now anyone can sign up for DayTrip. Thanks to everyone who signed up for the beta and fed us your feedback and opinions, it's really helping shape things.
 
+![Exciting things are happening](https://dl.dropboxusercontent.com/u/3648990/gifs/excite.gif)
+
 We're excited for this next phase in growth for DayTrip. In fact, last week during our stealthy out-of-beta phase, our traffic more than doubled which means we now have hundreds of active users using the site.
 
-We're hard at work on some great new spots and features to make DayTrip even more useful as you explore the world around you. We're still Austin-only for right now, but feel free to [head over and sign-up](https://godaytrip.com/users/sign_up).
+We're hard at work on some great new spots and features to make DayTrip even more useful as you explore the world around you. We're still Austin-only for right now, but feel free to [head over and sign up](https://godaytrip.com/users/sign_up).

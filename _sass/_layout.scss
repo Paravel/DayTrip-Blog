@@ -38,12 +38,17 @@
 
 .post{
   margin: 10% 0;
+
+  p > img {
+    margin-bottom: 0;
+  }
 }
 
 .post-meta{
   font-size: 0.875em;
   color: #8e8e8e;
-  a{
+
+  a {
     text-transform: capitalize;
   }
 }
