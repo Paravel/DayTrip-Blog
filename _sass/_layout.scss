@@ -9,6 +9,9 @@
   padding: 2em 0;
   overflow: hidden;
   margin-bottom: 10%;
+  @media (min-width: 900px) {
+    margin-bottom: 5em;
+  }
   .logo{
     display: block;
     margin: 0 auto 1em;
