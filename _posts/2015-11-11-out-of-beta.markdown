@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Big News: We're Out of Beta"
+title:  "Big News: We’re Out of Beta"
 date:   2015-11-11 09:00:00
 author:
   name: "Dave"
@@ -10,7 +10,7 @@ categories:
 
 ---
 
-Howdy, friends. We're happy to announce that we've lifted the beta and now anyone can sign up for DayTrip. Thanks to everyone who signed up for the beta and fed us your feedback and opinions, it's really helping shape things.
+Howdy, friends. We’re happy to announce that we’ve lifted the beta and now anyone can sign up for DayTrip. Thanks to everyone who signed up for the beta and fed us your feedback and opinions, it's really helping shape things.
 
 ![Exciting things are happening](https://dl.dropboxusercontent.com/u/3648990/gifs/excite.gif)
 
