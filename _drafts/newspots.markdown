@@ -29,7 +29,7 @@ A great place to grab a burger in Georgetown's beautiful downtown square. Stay t
 <br />
 [Georgetown Winery](https://godaytrip.com/spots/georgetown-winery) in Georgetown<br />
 Another downtown gem! Georgetown is shaping up to be a great trip that's really close and easy to get to.
-
+<br />
 ![Payne's](/assets/img/paynes.jpg)
 
 ###BBQ
