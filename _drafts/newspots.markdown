@@ -34,7 +34,7 @@ Another downtown gem! Georgetown is shaping up to be a great trip that's really 
 
 ###BBQ
 <br />
-[HWY 29 BBQ](https://godaytrip.com/spots/hwy-29-bbq) in Betram<br />
+[HWY 29 BBQ](https://godaytrip.com/spots/hwy-29-bbq) in Bertram<br />
 We've got a couple of great new BBQ spots in the [Burnet](https://godaytrip.com/towns/burnet) area. Hit them up after a trip to [Inks Lake](https://godaytrip.com/spots/inks-lake-state-park).
 
 [Payne's Bar-B-Q Shak](https://godaytrip.com/spots/payne-s-bar-b-q-shak) in Burnet<br />
