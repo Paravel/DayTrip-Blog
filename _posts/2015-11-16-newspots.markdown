@@ -4,7 +4,7 @@ title:  "New Spots"
 date:   2015-11-16 11:00:00
 author:
   name: "Reagan"
-  username: "ReaganRay"
+  username: "raygunray"
 categories:
   - New Spots
 
