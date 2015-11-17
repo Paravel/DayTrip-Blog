@@ -10,7 +10,7 @@ categories:
 
 ---
 
-We’ve begun work on views for people who are either signed-out or don’t have an account. Figuring the most useful view to share would be the spot view, we started there. As of today, you can share spots ([spot URLs like this one](https://godaytrip.com/spots/jester-king-brewery)) with anyone, and they’ll see this…
+We’ve begun work on views for people who are either signed out or don’t have an account. Figuring the most useful view to share would be the spot view, we started there. As of today, you can share spots ([spot URLs like this one](https://godaytrip.com/spots/jester-king-brewery)) with anyone, and they’ll see this…
 
 ![DayTrip Spot View](/assets/img/spot-view.jpg)
 
