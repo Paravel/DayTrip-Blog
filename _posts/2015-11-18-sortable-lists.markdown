@@ -11,4 +11,4 @@ Great news, everyone! We've just rolled out one of the most requested features: 
 
 ![Showing dropdown menu for list sorting](/assets/img/sortby.gif)
 
-It already seems useful in finding the quickest way to get out of town and get somewhere interesting. Let us know if this helps you in your travels. We'd love your feedback.
+It already seems useful in finding the quickest way to get out of town and get somewhere interesting. Let us know if this helps you in your travels. [We'd love your feedback](https://docs.google.com/forms/d/1FG6_gaNWk_OLEnSMwQ76oXnDM4bpMlhF-pu0aA-s_zw/viewform?c=0&w=1).
