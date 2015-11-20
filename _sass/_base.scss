@@ -118,3 +118,21 @@ a {
 			color: #3e8792;
 		}
 }
+
+table{
+	font-size: 0.813em;
+	@media (min-width: 600px) {
+		font-size: 0.875em;
+	}
+	width: 100%;
+	border-collapse: collapse;
+}
+
+tr{
+	border-bottom: 1px solid $background;
+	padding: 1px 0;
+}
+
+td{
+	padding: 3px;
+}
