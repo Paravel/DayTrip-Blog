@@ -12,7 +12,7 @@ categories:
 
 ![Cafes vs Restaurants](/assets/img/cafevsrestaurant.jpg)
 
-We just added a new restaurant category to DayTrip. We already had a cafes, so you might be asking why we added restaurants? Well, in our eyes a restaurant and a cafe in Texas are very different. We made a handy little chart so you'll know the difference:
+We just added a new [restaurant category](https://godaytrip.com/categories/restaurants) to DayTrip. We already had [cafes](https://godaytrip.com/categories/cafes), so you might be asking why we added restaurants? Well, in our eyes a restaurant and a cafe in Texas are very different. We made a handy little chart so you'll know the difference:
 
 |Item                     |Cafe                                 |Restaurant                 |
 |-------------------------|-------------------------------------|---------------------------|
