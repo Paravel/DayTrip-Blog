@@ -1,10 +1,10 @@
 ---
 layout: post
 title:  "New Category: Restaurants"
-date:   2015-11-20 09:00:00
+date:   2015-11-24 09:00:00
 author:
   name: "Reagan"
-  username: "ReaganRay"
+  username: "raygunray"
 categories:
   - New Categories
 
@@ -38,3 +38,4 @@ We just added a new [restaurant category](https://godaytrip.com/categories/resta
 |Specials                 |Meatloaf                             |Roasted duck               |
 |Desert                   |Pie and ice cream                    |Creme brulee and wine      |
 |Payment                  |Cash (with ATM nearby)               |Credit Card                |
+|Parking                  |Gravel lot                           |Valet                      |
