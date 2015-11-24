@@ -36,6 +36,6 @@ We just added a new [restaurant category](https://godaytrip.com/categories/resta
 |Sauce                    |Gravy                                |Can't pronounce it         |
 |Ketchup                  |Squeeze Bottle                       |Glass Bottle               |
 |Specials                 |Meatloaf                             |Roasted duck               |
-|Desert                   |Pie and ice cream                    |Creme brulee and wine      |
+|Dessert                  |Pie and ice cream                    |Creme brulee and wine      |
 |Payment                  |Cash (with ATM nearby)               |Credit Card                |
 |Parking                  |Gravel lot                           |Valet                      |
