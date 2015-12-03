@@ -7,23 +7,23 @@ author:
 categories:
   - Features
 ---
-Today we rolled out another one of the most requested features: [Maps](https://godaytrip.com/towns/map)! But rather than bore you with _a bunch of words_, we'll tell you about it BuzzFeed-style.
+Today we rolled out another one of our most requested features: [Maps](https://godaytrip.com/towns/map)! But rather than bore you with _a bunch of words_, we'll tell you about it BuzzFeed-style.
 
 ### At first we we like...
 
-![](https://media.giphy.com/media/YKcx8ZaH5hZ2E/giphy.gif)
+![Chris Christie saying "Oh Yeah"](https://media.giphy.com/media/YKcx8ZaH5hZ2E/giphy.gif)
 
 ### Then we were like...
-![](https://media.giphy.com/media/QZ5CgjoP0VrtS/giphy.gif)
+![Chris Farley laughing then serious ](https://media.giphy.com/media/QZ5CgjoP0VrtS/giphy.gif)
 
 ### So we asked our boss...
-![](https://media.giphy.com/media/jBvPmuBuzmjzW/giphy.gif)
+![Jack Donaghy saying "There are no bad ideas, Lemon. Only good ideas that go horribly wrong."](https://media.giphy.com/media/jBvPmuBuzmjzW/giphy.gif)
 
 ### And then we were like...
-![](https://media.giphy.com/media/gUlm9edDooQFy/giphy.gif)
+![George Costanza having a good idea](https://media.giphy.com/media/gUlm9edDooQFy/giphy.gif)
 
 ### And now we're like...
-![](https://media.giphy.com/media/8w7efnu1zAaoo/giphy.gif)
+![Charlie Day excitedly punching](https://media.giphy.com/media/8w7efnu1zAaoo/giphy.gif)
 
 ## The wordier version
 
@@ -39,4 +39,6 @@ Browsing towns in a map view is fairly intuitive and helpful. It helps makes sen
 
 [Open the Towns Map](https://godaytrip.com/towns/map)
 
- And since towns are essentially a collection of spots, we can guarantee that you'll be able to spend a full day out and about. We think you'll really like how it turned out. If have strong opinions good or bad about our maps, let us know, [we'd love your feedback](https://docs.google.com/forms/d/1FG6_gaNWk_OLEnSMwQ76oXnDM4bpMlhF-pu0aA-s_zw/viewform?c=0&w=1).
+And since towns are essentially a collection of spots, we can guarantee that you'll be able to spend a full day out and about. We think you'll really like how it turned out.
+
+If have strong feels about our town map, let us know, [we'd love your feedback](https://docs.google.com/forms/d/1FG6_gaNWk_OLEnSMwQ76oXnDM4bpMlhF-pu0aA-s_zw/viewform?c=0&w=1).
