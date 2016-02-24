@@ -68,7 +68,7 @@ h1 {
 	}
 }
 
-p, figcaption{
+p{
   // font-family: 'Lora', serif;
   max-width: 38em;
   margin: 0 0 2em;
@@ -76,6 +76,10 @@ p, figcaption{
 
 figure {
   margin: 0 0 2em;
+}
+
+figcaption{
+  max-width: 42em;
 }
 
 img{
