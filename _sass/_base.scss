@@ -68,9 +68,13 @@ h1 {
 	}
 }
 
-p, figure {
+p, figcaption{
   // font-family: 'Lora', serif;
   max-width: 38em;
+  margin: 0 0 2em;
+}
+
+figure {
   margin: 0 0 2em;
 }
 
