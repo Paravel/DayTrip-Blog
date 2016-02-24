@@ -9,9 +9,10 @@ categories:
   - New Categories
 
 ---
-
-![Watering Holes](/assets/img/wateringholes.jpg)
-(Clockwise from top left: [Zelicks Icehouse](https://godaytrip.com/spots/zelicks-icehouse), [Neighbor’s Kitchen & Yard](https://godaytrip.com/spots/neighbor-s-kitchen-yard), and [Albert Ice House](https://godaytrip.com/spots/albert-dance-hall))
+<figure>
+<img src="/assets/img/wateringholes.jpg" alt="Watering Holes"/>
+<figcaption>(Clockwise from top left: <a href="https://godaytrip.com/spots/zelicks-icehouse">Zelicks Icehouse</a>, <a href="https://godaytrip.com/spots/neighbor-s-kitchen-yard">Neighbor’s Kitchen & Yard</a>, and <a href="https://godaytrip.com/spots/albert-dance-hall">Albert Ice House</a>)</figcaption>
+</figure>
 
 There’s nothing like finding a nice spot to relax for a beer after a long day of hiking or swimming. While breweries are always a great choice, they can sometimes have weird hours or be too far out of the way. We think our new [watering hole](https://godaytrip.com/categories/watering-holes) category will be just what the doctor ordered. Here are a few things we took into consideration when picking the perfect one:
 
