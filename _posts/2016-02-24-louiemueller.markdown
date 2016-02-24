@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Louie Mueller BBQ"
+title:  "Louie Mueller Barbecue"
 date:   2016-02-24 09:00:00
 author:
   name: "Trent"
@@ -11,7 +11,7 @@ categories:
 ---
 
 <figure>
-<img src="/assets/img/louiemuellertrip.jpg" alt="Louie Mueller BBQ"/>
+<img src="/assets/img/louiemuellertrip.jpg" alt="Louie Mueller Barbecue"/>
 <figcaption>(Clockwise from top left: The iconic BBQ smoke-stained business card wall, A piece from a beef rib we affectionately named “beefcake,” my BBQ combo, and Louie Mueller’s entrance)</figcaption>
 </figure>
 
