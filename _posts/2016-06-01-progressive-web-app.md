@@ -7,7 +7,6 @@ author:
   username: "davatron5000"
 categories:
   - Features
-
 ---
 We're happy to announce DayTrip is now a fully responsive [Progressive Web App](https://developers.google.com/web/progressive-web-apps/), a combination of new web technologies championed by Google Chrome. Starting this week, Android users (~13% of our active user base) who use DayTrip more than once will eventually be asked if they want to install our web app to their Home Screen. That's important real estate for a small startup like ourselves.
 
@@ -16,7 +15,7 @@ We're happy to announce DayTrip is now a fully responsive [Progressive Web App](
 ## What's this mean for me?
 Progressive Web Apps are aimed at giving fast, reliable, native "app-like" experiences. After being installed, you'll be able to launch DayTrip from your Home Screen and it will behave like an app you downloaded from an App Store.
 
-In addition to that, Progressive Web Apps improve your offline experience. If you find yourself in the woods with bad cell signal, previously viewed pages on your device will be cached and available offline.
+In addition to that, Progressive Web Apps improve your offline experience. Getting people offline is major part of why DayTrip exists. If you find yourself in the woods with bad cell signal, previously viewed pages on your device will be cached and available offline.
 
 ## Why not just go native?
 "Why not just go native?" is a good question and frequent feedback request. Truth be told, we actually headed down that direction. We built an API and prototyped multi-platform mobile clients but hit a wall where we had to make an important decision whether or not to continue development.
