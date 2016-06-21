@@ -54,19 +54,31 @@
     max-width: 1000px;
     width: 100%;
   }
+  ul{
+    list-style-type: disc;
+    margin-left: 1em;
+  }
 }
 
 .post-title{
-  margin-bottom: 0.2em;
+  margin-bottom: 0.085em;
+  a:hover{
+    color: #3E8792;
+    text-decoration: none;
+  }
 }
 
 .post-meta{
   font-size: 0.875em;
   color: #8e8e8e;
-
+  margin-bottom: 1em;
   a {
     text-transform: capitalize;
     text-decoration: none;
+    &:hover{
+      color: #3E8792;
+      text-decoration: underline;
+    }
   }
 }
 
