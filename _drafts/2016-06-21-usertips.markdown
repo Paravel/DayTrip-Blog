@@ -1,0 +1,43 @@
+---
+layout: post
+title:  "New Feature: Tips"
+date:   2016-06-21 09:00:00
+author:
+  name: "Reagan"
+  username: "raygunray"
+categories:
+  - Features
+
+---
+
+<img src="/assets/img/explorethehillcountry.jpg"  alt="Illustration of the hill country"/>
+
+This is a big day for DayTrip, as we’ve been looking forward to sharing this feature for a long time. We’re excited to officially launch user tips!
+
+
+## So what’s the big deal about user tips?
+
+Whenever we see someone log a spot on DayTrip, we’re always curious about their experience. Did they have fun? Was the spot crowded? Were their kids entertained? Logging a spot only tells a small part of the story. We want to know how the trip went and what to do when we go. Maybe you have a favorite food order or you just discovered a great new hiking trail. “Don’t mess it up” has always been our slogan.
+
+## So what kind of tips should I leave?
+
+First and foremost, we always want to know if you liked a spot. While our goal is to only include the best spots, we know that everyone has different tastes. Here are some other helpful suggestions:
+
+Favorite trails to hike and degree of difficulty
+What to bring
+Best time to go
+Favorite thing to order at a cafe
+Favorite beer at a brewery
+Parking tips
+Useful advice for kids
+Kid friendly places
+Pet friendly places
+Best time to go camping
+A fun place you like to go afterwards
+Alternatives if a spot is too crowded
+
+We’ve also capped the length of tips to 500 characters, which is roughly 2 paragraphs. We like to keep things simple, and more direct tips are easier to scan. As Joe Friday would say, “Just the facts ma’am.”  
+
+## What’s Next?
+
+Our main goal moving forward with DayTrip is to get more people involved. We plan on doing that in a few ways, starting with expansion and user generated content. We’re exploring different metros and ways to easily share your favorite trips and spots.  But in the meantime, it's prime DayTrip season. Get out there, have fun, and start leaving some tips. You definitely don’t have to be at a spot to leave a tip … it can be somewhere you visited last week or last year. Share your knowledge!
