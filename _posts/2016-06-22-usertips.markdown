@@ -45,4 +45,4 @@ We’ve also capped the length of tips to 500 characters, which is roughly 2 par
 
 ## What’s Next?
 
-It’s prime DayTrip season. Get out there, have fun, and start leaving some tips. You definitely don’t have to be at a spot to leave a tip… it can be somewhere you visited last week or last year. Share your knowledge!
+It’s prime <a href="http://godaytrip.com">DayTrip</a> season. Get out there, have fun, and start leaving some tips. You definitely don’t have to be at a spot to leave a tip… it can be somewhere you visited last week or last year. Share your knowledge!
