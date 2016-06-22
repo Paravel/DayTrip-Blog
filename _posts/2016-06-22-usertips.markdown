@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "New Feature: Tips"
-date:   2016-06-21 09:00:00
+date:   2016-06-22 09:00:00
 author:
   name: "Reagan"
   username: "raygunray"
@@ -17,7 +17,9 @@ This is a big day for DayTrip, as we’ve been looking forward to sharing this f
 
 ## So what’s the big deal about user tips?
 
-Whenever we see someone log a spot on DayTrip, we’re always curious about their experience. Did they have fun? Was the spot crowded? Were their kids entertained? Logging a spot only tells a small part of the story. We want to know how the trip went and what to do when we go. Maybe you have a favorite food order or you just discovered a great new hiking trail. “Don’t mess it up” has always been our slogan.
+Whenever we see someone log a spot on DayTrip we’re always curious about their experience. Did they have fun? Was the spot crowded? Were their kids entertained? Logging a spot only tells a small part of the story. We want to know how the trip went and what to do when we go ourselves. Maybe you have a favorite food order or you just discovered a great new hiking trail. “Don’t mess it up” has always been our slogan.
+
+<img src="/assets/img/user-tips.jpg"  alt="user tips"/>
 
 ## So what kind of tips should I leave?
 
@@ -43,4 +45,4 @@ We’ve also capped the length of tips to 500 characters, which is roughly 2 par
 
 ## What’s Next?
 
-It’s prime DayTrip season. Get out there, have fun, and start leaving some tips. You definitely don’t have to be at a spot to leave a tip … it can be somewhere you visited last week or last year. Share your knowledge!
+It’s prime DayTrip season. Get out there, have fun, and start leaving some tips. You definitely don’t have to be at a spot to leave a tip… it can be somewhere you visited last week or last year. Share your knowledge!
