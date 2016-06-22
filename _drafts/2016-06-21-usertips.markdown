@@ -36,6 +36,8 @@ First and foremost, we always want to know if you liked a spot. While our goal i
 - A fun place you like to go afterwards
 - Alternatives if a spot is too crowded
 
+<img src="/assets/img/tips.gif"  alt="animation of tip feature"/>
+
 
 We’ve also capped the length of tips to 500 characters, which is roughly 2 paragraphs. We like to keep things simple, and more direct tips are easier to scan. As Joe Friday would say, “Just the facts ma’am.”  
 
